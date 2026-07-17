@@ -1,0 +1,537 @@
+=== PDF PAGE 105 ===
+TM 9-803
+50-51
+1/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+Section XIII
+ENGINE-DESCRIPTION, DATA, MAINTENANCE, AND
+ADJUSTMENT IN VEHICLE
+Paragraph
+Description and tabulated data ........................... 50
+Engine tune-up ......................................... 51
+Intake and exhaust manifolds ............................. 52
+Manifold heat control valve .............................. 53
+Cylinder head gasket .................................... 54
+Valve cover gasket ....................................... 55
+Valve tappet adjustment ................................. 56
+Oil pan gasket .......................................... 57
+Oil filter ................................................ 58
+Crankcase ventilator valve ............................... 59
+50. DESCRIPTION AND TABULATED DATA.
+a. Description. The engine (figs. 20 and 21) is of the conventional
+4-cylinder, L-head, internal-combustion type. The engine with the
+clutch, transmission, and transfer case is built into a unit power plant
+which is mounted at four points in the chassis. For identification
+refer to paragraph 2 b.
+b. Tabulated Data.
+Bore ................................... 3%/g in.
+Piston displacement .................... 134.2 cu in.
+Net horsepower ..................... 54 at 4,000 rpm
+SAE horsepower ............................. 15.63
+Maximum torque .............. : ........... 9S ft-lb
+Firing order ............................... 1-3-4-2
+Tappet clearance-intake and exhaust
+Type .................................. : .. L-head
+Number of cylinders ............................. 4
+Stroke ......... : ........................... 43/8 in.
+Compression ratio .................... ..... 6.48 to 1
+Compression ........... 110 lb per sq in. at 185 rpm
+(hot or cold) ........ . ............... 0.014 in.
+51. ENGINE TUNE-UP.
+a. Procedure.
+(1) Perform preventive maintenance and corrective operations
+listed in paragraph 16.
+(2) Remove spark plugs and clean. Adjust gaps (par. 67).
+104
+
+=== PDF PAGE 106 ===
+TM 9-803
+51
+ENGINE-DESCRIPTION, DATA, MAINTENANCE, AND
+ADJUSTMENT IN VEHICLE
+A BCI F H I K M
+AN
+AM
+'
+AL O A
+AJ = A
+Al A A A AC A .AA X U
+A FAN V CRANKSHAFT BEARING--REAR LOWER
+B WATER PUMP BEARING AND SHAFT W VALVE TAPPET
+C WATER PUMP SEAL WASHER X CRANKSHAFT
+D WATER PUMP SEAL Y CONNECTING ROD CAP BOLT
+E WATER PUMP IMPELLER Z OIL FLOAT SUPPORT
+F PISTON AA OIL FLOAT
+G PISTON PIN AB CRANKSHAFT BEARING-CENTER LOWER
+H THERMOSTAT AC CONNECTING ROD
+I WATER OUTLET ELBOW AD CONNECTING ROD BOLT NUT LOCK
+J THERMOSTAT RETAINER AE CRANKSHAFT BEARING-FRONT LOWER
+K EXHAUST VALVE AF CRANKSHAFT THRUST WASHER
+L INLET VALVE AG TIMING CHAIN COVER
+M CYLINDER HEAD AH TIMING CHAIN
+N EXHAUST MANIFOLD Al CRANKSHAFT SPROCKET
+O VALVE SPRING AJ FAN BELT
+P VALVE TAPPET ADJUSTING SCREW AK CRANKSHAFT PACKING-FRONT END
+Q ENGINE PLATE-REAR AL STARTING. CRANK NUT
+R CAMSHAFT AM FAN AND GENERATOR DRIVE PULLEY
+S FLYWHEEL RING GEAR AN CAMSHAFT THRUST PLUNGER
+T CRANKSHAFT PACKING-REAR AO CAMSHAFT BUSHING-FRONT
+U CRANKSHAFT REAR BEARING DRAIN PIPE AP CAMSHAFT THRUST WASHER
+AQ CAMSHAFT SPROCKET
+RA PD 305283
+Figure 20-Sectional View of Engine
+105
+
+=== PDF PAGE 107 ===
+TM 9-803
+51
+1/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND
+and FORD MODEL GPW)
+MODEL MB
+B C
+A D ISTRIBUTOR OILER
+B IGNITION DISTRIBUTOR
+C IGNITION COIL
+D EXHAUST VALVE GUIDE
+E INTAKE MANIFOLD
+F VALVE SPRING COVER
+G HEAT CONTROL VALVE
+H CRANKCASE VENTILATOR BAFFLE
+I EXHAUST MANIFOLD
+J CRANKCASE VENTILATOR
+K DISTRIBUTOR SHAFT FRICTION SPRING
+L OIL PUMP DRIVEN GEAR
+0
+OIL PUMP PINION
+P OIL RELIEF PLUNGER SPRING RETAINER
+Q OIL RELIEF PLUNGER SPRING SHIMS
+R OIL RELIEF PLUNGER SPRING
+S OIL RELIEF PLUNGER
+T OIL PUMP SHAFT AND ROTOR
+U OIL PAN
+V OIL PAN DRAIN PLUG
+W OIL FLOAT SUPPORT
+X CRANKSHAFT BEARING DOWEL
+Y CRANKSHAFT BEARING CAP TO CRANKCASE SCREW
+Z OIL FLOAT
+R
+M OIL PUMP ROTOR DISK A OIL FILLERTUBE
+N OILPUMP AC OIL FILLER CAP AND LEVEL INDICATOR
+RA PD 305284
+Figure 21--Sectional View of Engine
+106
+
+=== PDF PAGE 108 ===
+TM 9-803
+51
+ENGINE-DESCRIPTION, DATA, MAINTENANCE, AND
+ADJUSTMENT IN VEHICLE
+_ 4
+RA PD 305176
+Figure 22-Manifolds
+(3) Test cylinder compression with gage. The gage must read
+more than 70 pounds, and the variation between cylinders remain less
+than 10 pounds. Normal compression is approximately 110 pounds
+per square inch at cranking speed. Report lack of compression to
+higher authority.
+(4) Make sure that ground strap at engine left front support is
+in good condition and tight.
+(5) Remove distributor cap and rotor. Check for cracks and
+leaks. Clean or replace breaker points and adjust (par. 64).
+107
+
+=== PDF PAGE 109 ===
+TM 9-803
+51
+¼/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+A B C D E
+'N M L
+A EXHAUST MANIFOLD
+B INTAKE TO EXHAUST MANIFOLD GASKET
+C INTAKE MANIFOLD
+D ACCELERATOR SPRING CLIP
+E INTAKE MANIFOLD PLUG
+F INTAKE MANIFOLD TO CARBURETOR STUD
+G INTAKE TO EXHAUST MANIFOLD SCREW LOCKWASHER
+H INTAKE TO EXHAUST MANIFOLD SCREW
+I HEAT CONTROL VALVE BI-METAL SPRING STOP
+J HEAT CONTROL VALVE BI-METAL SPRING WASHER
+K HEAT CONTROL VALVE COUNTERWEIGHT LEVER
+L HEAT CONTROL VALVE LEVER KEY
+M HEAT CONTROL VALVE LEVER CLAMP SCREW
+N HEAT CONTROL VALVE LEVER CLAMP SCREW NUT
+O HEAT CONTROL VALVE BI-METAL SPRING
+P EXHAUST PIPE TO EXHAUST MANIFOLD STUD NUT
+Q EXHAUST PIPE TO EXHAUST MANIFOLD STUD
+R HEAT CONTROL VALVE SHAFT
+RA PD 334754
+Figure 23-Manifolds, Disassembled
+108
+
+=== PDF PAGE 110 ===
+TM 9-803
+51-52
+ENGINE-DESCRIPTION, DATA, MAINTENANCE, AND
+ADJUSTMENT IN VEHICLE
+(6) Check ignition timing (par. 65).
+(7) Check valve tappet clearance (par. 56).
+(8) Install spark plugs, assemble distributor, start engine, and
+allow to run until normal temperature is reached; then set throttle
+valve stop screw so that engine will idle at 600 revolutions per
+minute (vehicle speed 8 mph).
+(9) Adjust idle adjustment screw until engine idles smoothly. If
+carburetor float level, accelerating pump, or metering rod require
+adjustment, report to higher authority.
+WASHER BIMETAL SPRING SPRING STOP
+RA PD 305187
+Figure 24-Heat Control Valve
+(10) Tighten cylinder head screws and nuts, using torque wrench
+(par. 54).
+(11) Check operation of manifold heat control (par. 53).
+52. INTAKE AND EXHAUST MANIFOLDS.
+a. Description. The intake and exhaust manifolds (figs. 22 and
+23) are attached to each other with four screws, making a unit in
+which a heat control valve is used to regulate the intake manifold
+temperature (par. 53).
+b. Remove Intake and Exhaust Manifolds. Remove carburetor
+air horn at top of carburetor, and disconnect hand throttle, choke,
+109
+
+=== PDF PAGE 111 ===
+TM 9-803
+54
+1/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND
+and FORD MODEL GPW)
+MODEL MB
+Figure 2S5-Cylinder Head Tightening Chart
+RA PD 305138
+A B C D E F
+I I
+L K IC H
+A
+B
+C
+D
+E
+F
+VALVE SPRING COVER GASKET G CRANKCASE VENTILATOR TUBE
+VALVE SPRING COVER H VALVE SPRING COVER SCREW-FRONT
+VALVE SPRING COVER SCREW GASKET I CRANKCASE VENTILATOR BODY ELBOW
+VALVE SPRING COVER SCREW-REAR J CRANKCASE VENTILATOR BODY
+CRANKCASE VENTILATOR VALVE K CRANKCASE VENTILATOR BODY GASKET
+CRANKCASE VENTILATOR VALVE ELBOW L CRANKCASE VENTILATOR BAFFLE
+RA PD 334755
+Figure 26-Valve Spring Cover, Disassembled
+110
+
+=== PDF PAGE 112 ===
+TM 9-803
+52-54
+ENGINE-DESCRIPTION, DATA, MAINTENANCE, AND
+ADJUSTMENT IN VEHICLE
+and accelerator at carburetor. Loosen fuel line at fuel pump, and
+disconnect at carburetor. Remove two nuts attaching carburetor to
+intake manifold, and remove carburetor with accelerator spring clip.
+Loosen the valve spring cover front screw to relieve any pull on
+crankcase ventilator tube, and then remove the tube. Disconnect
+exhaust pipe at the manifold. Remove all nuts and washers from
+manifold studs in cylinder block, remove manifolds as an assembly,
+and remove ventilator valve.
+c. Separate Intake Manifold from Exhaust Manifold. Remove
+four screws holding intake and exhaust manifolds together, and
+remove intake to exhaust manifold gasket.
+d. Assemble Intake Manifold to Exhaust Manifold. Attach in
+take manifold to exhaust manifold loosely, using a new gasket.
+Tighten screws only slightly until manifolds are installed on cylinder
+block. Install ventilator valve.
+e. Install Intake and Exhaust Manifolds. Clean contact sur
+faces of manifolds and cylinder block. Place new gasket on studs in
+cylinder block, and install manifold. Install washers and nuts with
+convex side of washers against manifolds, and tighten evenly (torque
+wrench reading 31 to 35 ft-lb). Tighten the four screws attaching
+intake manifold to exhaust manifold. Attach exhaust pipe to mani
+fold, using new gasket, and tighten in place with nut and screw.
+Install ventilator tube, and tighten valve spring cover front screw.
+Install carburetor, accelerator clip, and spring. Attach fuel line at
+carburetor, and tighten at fuel pump. Connect accelerator rod, hand
+throttle, and choke at carburetor. Push controls in on instrument
+panel (throttle closed and choke fully open). Install carburetor air
+horn and secure in place. Operate fuel pump priming lever to put
+fuel in carburetor, then start engine, and check for leaky gaskets.
+53. MANIFOLD HEAT CONTROL VALVE.
+a. Description. The heat control valve (figs. 23 and 24) is con
+trolled thermostatically by a bimetal spring. This valve diverts ex
+haust gases around the central portion of the intake manifold during
+the warm-up period of the engine. NOTE: The manifold heat control
+valve is an integral part of the exhaust manifold. For replacement
+follow procedure outlined in paragraph 52.
+54. CYLINDER HEAD GASKET.
+a. Removal. Drain the cooling system by opening the drain cock
+under the radiator at the left front. If there is antifreeze in the cool
+ing system, drain into a pan so it can be used again. Disconnect spark
+plug wires at the plugs, and remove distributor cap from distributor.
+Remove two nuts on cylinder studs holding air cleaner tube bracket,
+and remove bracket with wires and distributor cap. Remove radiator
+upper tube with hoses attached. Disconnect oil filter upper tube,
+remove two nuts holding filter to engine, and remove filter. Remove
+all cylinder head screws and nuts. Remove cylinder head and bond
+111
+
+=== PDF PAGE 113 ===
+TM 9-803
+54-55
+/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+ing strap, taking care not to damage oil filler tube, and discard
+gasket.
+b. Installation. Clean cylinder head, tops of pistons, and cylinder
+block thoroughly. Place cylinder head gasket in position on cylinder
+block. NOTE: The front and rear center studs are pilot studs to
+correctly position the gasket. Install cylinder head. CAUTION: Do
+not damage oil filler pipe. Install rear bonding strap, oil filter, and
+air cleaner tube bracket. Install cylinder head bolts and nuts. Tighten
+cylinder screws and nuts evenly and in sequence (fig. 25), using a
+RA PD 305189
+Figure 27-Valve Tappet Adjustment
+torque-type wrench (screws, 65 to 70 ft-lb; nuts, 60 to 65 ft-lb).
+Connect oil filter tube, install distributor cap, and attach spark plug
+wires to correct plugs. Install radiator upper tube, tighten hose
+clamps, and close radiator drain cock. Fill the cooling system, giving
+due attention to antifreeze, if required (par. 7). Start engine, and
+check cooling system for leaks. See that cooling solution level has
+not gone down; replenish if necessary.
+55. VALVE COVER GASKET.
+a. Removal. Remove front valve spring cover bolt (fig. 26). Re
+move crankCase ventilator tube at ventilator valve, and remove tube
+and cap. Remove rear valve spring cover bolt, and slide valve spring
+cover forward, up, and out over the fuel pump. Discard gasket.
+b. Installation. Clean cover and gasket seat on cylinder block.
+Cement cork gasket to cover. Position cover on cylinder block by
+sliding it to the rear over fuel pump. Install cover rear screw and
+copper gasket, but do not tighten. Install cover front screw and copper
+112
+
+=== PDF PAGE 114 ===
+TM 9-803
+55-57
+ENGINE-DESCRIPTION, DATA, MAINTENANCE, AND
+ADJUSTMENT IN VEHICLE
+gasket, with ventilator cap, baffle, and gasket. Connect ventilator
+tube to valve, and tighten both cover screws evenly. Start engine and
+check for oil leaks.
+56. VALVE TAPPET ADJUSTMENT.
+a. Adustment. Remove the valve spring cover (par. 55). Adjust
+the self-locking tappet screws while they are cold (or warm) to 0.014
+inch (fig. 27). Set tappet screws, starting with No. 1 cylinder on
+compression stroke at~top center, then adjust valves in cylinder firing
+order (par. 62 b), turning the crankshaft one-half turn for each
+cylinder. NOTE: The valte tappets will then be on the heel of the
+cam. After adjusting, replace valve spring cover (par. 55).
+FG H
+A OIL PAN
+OIL PAN GASKET G A 
+i i i6
+o 
+¢ v
+C
+D 
+OIL FLOAT e
+OIL FLOAT SUPPORT COTTER PIN A 
+o
+E OIL FLOAT SUPPORT TO CRANKCASE
+SCREW
+F OIL FLOAT SUPPORT TO CRANKCASE
+SCREW LOCKWASHER.
+G OIL FLOAT SUPPORT aa
+H
+I
+OIL FLOAT SUPPORT GASKET
+OIL PAN SCREW LOCKWASHER
+1
+K
+J
+K 
+OIL PAN
+OIL PAN 
+DRAIN PLUG GASKET
+DRAIN PLUG 0 
+Ca |
+L
+L OIL PAN SCREW 
+RA PD 334752
+Figure 28-Floating Oil Intake and Oil Pan
+57. OIL PAN GASKET.
+a. Removal. Drain oil by removing drain plug in lower left side
+of oil pan (fig. 28). Remove oil pan screws, exercising care not to
+lose spacers under fan belt guard. Remove oil pan, then remove
+gasket.
+113
+
+=== PDF PAGE 115 ===
+TM 9-803
+57-58
+/ 4 -TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+b. Installation. First clean oil pan thoroughly. Check condition
+of floating oil intake screen and if dirty, clean in dry-cleaning solu
+tion. Clean face of oil pan and crankcase where gasket is installed,
+and cement gasket to oil pan. Put oil pan in position, and install
+screws. Be sure that spacers under belt guard are in position, and
+tighten all screws evenly. Torque wrench reading must be 10 to 14
+foot-pounds.
+58. OIL FILTER.
+a. Description. The oil filter is the military standard type located
+on the right front side of the engine (fig. 36). Part of the oil circu
+lated through the oiling system is sent through the filter. The filter-
+A
+_ - C
+dE
+A COVER BOLT
+B COVER BOLT GASKET
+C COVER ASSEMBLY
+D COVER BOLT SPRING
+E COVER GASKET
+F ELEMENT ASSEMBLY
+G CASE ASSEMBLY
+H DRAIN PLUG
+G I CLAMP ASSEMBLY
+ii RA PD 305275
+Figure 29--0il Filter, Disassembled
+ing element is a cylindrical replaceable unit which should be changed
+each 6,000 miles, more often if the oil gets dirty quickly. The inlet
+line at the top of the filter connects to the oil distribution line at the
+114
+
+=== PDF PAGE 116 ===
+TM 9-803
+58-59
+ENGINE-DESCRIPTION, DATA, MAINTENANCE, AND
+ADJUSTMENT IN VEHICLE
+plug in the left front side of the engine. The outlet or oil return line
+connects to the timing chain cover.
+b. Remove Element. Unscrew cover bolt in top of unit and
+remove cover, exercising care not to damage gasket (fig. 29). Remove
+drain plug in lower side of filter to drain filter, then lift out element.
+c. Installing Element. Clean Jilter thoroughly. Install drain
+plug, and put new-element in filter.Inspect cover gasket, and replace'
+if necessary. Install cover and tighten in place with cover bolt. Start
+engine, and -check filter for oil leaks. Add enough oil to crankcase
+to bring level up to "FULL" mark on gage.
+d. Remove Filter. Drain filter by removing drain plug in lower
+side. Disconnect upper and lower tubes at filter. Remove four bolts
+holding filter in bracket, and remove filter. Remove tube fittings,
+using care not to distort them; then install drain plug.
+e. Install Filter. Install tube fittings, exercising care not to
+damage them. Mount filter in bracket, and tighten in place. Connect
+tubes, being careful not to cross threads. Start the engine and check
+for oil leaks after which check engine oil level in crankcase and
+replenish supply to "FULL" mark on gage.
+59. CRANKCASE VENTILATOR VALVE.
+a. Description. The crankcase ventilator valve (fig. 22) is located
+at the center of the intake manifold. This valve is spring-loaded, and
+is operated by the intake manifold vacuum. The valve is closed when
+the engine is idling (manifold vacuum high). When the engine speed
+is increased the manifold vacuum is lowered, and the valve opens
+to allow clean air to be drawn from the air cleaner tube through the
+engine oil filler pip\to ventilate the crankcase. If this valve fails to
+seat properly, an engine operating condition will occur similar to a
+leaky intake manifold.
+b. Remove Valve. Loosen valve spring cover front screw. RemaVe
+ventilator tube at valve, and remove ventilator valve (fig. 22).
+c. Installing Valve. Place ventilator valve in a vise and remove
+top. Clean the valve and seat. Be sure that spring operates freely, and
+reassemble valve. Install valve in manifold and attach tube. Tighten
+valve spring cover front screw.
+115
+
+=== PDF PAGE 117 ===
+TM 9-803
+60
+'/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+Section XIV
+ENGINE-REMOVAL AND INSTALLATION
+Paragraph
+Removal ......... ............................... 60
+Installation ........................................ 61
+60. REMOVAL.
+a. Open Hood. Unhook hood by pulling up catches at forward
+sides of hood. Raise hood and lay back against windshield. Hook or
+tie hood to windshield to avoid accidental closing.
+b. Drain Cooling System. Open drain cocks at lower left-hand
+corner of radiator, and at right-front lower corner of cylinder block.
+c. Remove Battery. Disconnect battery cables. Remove two wing
+nuts and washers from hold-down bolts. Remove battery hold-down
+frame, and lift out battery.
+d. Remove Radiator. Remove upper and lower radiator hoses.
+Remove radiator stay rod nuts and remove rod. Remove two radi
+ator stud nuts on bottom of radiator, and lift off radiator. Do not
+lose radiator pads.
+e. Remove Air Cleaner. Disconnect air cleaner flexible hose at
+cleaner. Loosen wing nuts on side toward engine. Remove nuts on
+the opposite side, and remove cleaner. CAUTION: Do not tip and
+spill oil from reservoir.
+f. Remove Cranking Motor. Disconnect cranking motor wires.
+Remove two bolts in engine rear plate, and one screw in side of crank
+case. Remove motor.
+g. On Right Side of Vehicle. Disconnect wires on generator.
+Disconnect ignition switch wire at ignition coil. Loosen fuel tank
+cap to relieve any pressure, and disconnect fuel line at flexible con
+nection on right side of engine. Unscrew heat indicator unit from
+cylinder head. Remove two bolts holding engine front support
+insulator to frame, and disconnect bond strap.
+h. On Left Side of Vehicle. Remove horn frort bracket by
+removing two screws. Remove rear center cylinder head stud nut,
+and detach bond strap. Disconnect throttle and choke controls at
+carburetor. Remove fuel line (fuel pump to carburetor). Disconnect
+oil gage line at upper end of flexible tube on front of dash. Dis
+connect accelerator rod at lower end of bell crank on.back of engine.
+Remove one bolt and one screw to separate exhaust pipe from mani
+fold. Remove two engine front support bolts in frame, and discon
+nect engine ground strap from frame.
+i. Disconnect Bell Housing. Remove bell housing upper bolts.
+Wrap a rope or cable around front and rear end of engine, attach
+chain hoist, and pick up weight of engine. Underneath vehicle, remove
+116
+
+=== PDF PAGE 118 ===
+TM. 9-803
+60-61
+ENGINE-REMOVAL AND INSTALLATION
+the remaining bell housing bolts, and disconnect engine stay cable at
+the frame crossmember. Drive out two bell housing bolts at side of
+engine. Raise engine and guide out of frame.
+61. INSTALLATION.
+a. Installing Engine. Wrap rope or cable around front and rear
+end of engine, and attach chain hoist. Raise engine and lower into
+position. Insert transmission shaft in clutch driven plate hub, and
+work engine back into place. Install dowel bolts from engine side.
+-Install bell housing bolts and tighten. Install engine front support
+insulator bolts in frame. Attach engine ground strap at left support
+and bond strap at right support. Install engine stay cable. Run rear
+adjusting nut up to the bracket, then with cable just taut, tighten
+lock nut on the front side of bracket.
+b. On Right Side of Vehicle. Install cranking motor and attach
+wires. Attach ignition coil wire. Install heat indicator unit in cylinder
+head. Attach generator wires and ground strap. Connect flexible fuel
+line. Check air cleaner oil in reservoir, and install cleaner on dash
+with wing nuts. Tighten air flexible connection. Install battery, and
+secure in place with hold-down frame and wing nuts. Clean cable
+connections, grease, and attach to battery posts.
+c. On Left Side of Vehicle. Install accelerator rod with cotter
+pin. Connect oil gage tube. Attach exhaust pipe to manifold with
+'bolt and screw. Gasket must be in good condition. Install bond strap
+on cylinder head rear stud,. and tighten nut to from 60 to 65 foot-
+pounds. Install carburetor choke and throttle wires. NOTE: Controls
+on instrument panel must be all the way in, the throttle in the carbu
+retor in the closed position, and the choke fully open. Install fuel line
+between pump and carburetor. Attach horn to bracket.
+d. Installing Radiator. See that radiator pads are in place, and
+install radiator on frame. Install upper and lower radiator hoses. In
+stall radiator stay rod. Fill radiator, giving due attention to anti
+freeze, if required.
+e. Inspection. Tighten fuel tank cap. Check engine oil (par. 18
+c). Start engine, check for leaks, tune-up, and finally check level
+of solution in radiator. Close hood and hook properly.
+117

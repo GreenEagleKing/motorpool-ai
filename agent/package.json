@@ -1,0 +1,13 @@
+{
+  "name": "motor-pool-agent",
+  "version": "0.1.0",
+  "description": "Answer agent: retrieval over the KB + Claude with citations",
+  "type": "module",
+  "scripts": {
+    "ask": "node ask.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0"
+  }
+}

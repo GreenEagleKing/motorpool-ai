@@ -1,0 +1,387 @@
+=== PDF PAGE 127 ===
+TM 9-803
+70
+A/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+Section XVI
+FUEL AND AIR INTAKE AND EXHAUST SYSTEMS
+Paragraph
+Description and data .................................... 70
+Maintenance ........................................ 71
+Carburetor ....................... ................. 72
+Air cleaner .............................................. 73
+Fuel pump ........................................ 74
+Fuel tank ....................... ................. 75
+Fuel strainer ............................................. 76
+Fuel gage ............................................... 77
+Exhaust system ........................................ 78
+FUEL FILTER
+GASOLINE TANK
+a,
+FUEL PUMP
+CARBURETOR
+Figure 34-Fuel System RA PD 305196
+70. DESCRIPTION AND DATA.
+a. Description. The fuel system (fig. 34) consists of the fuel tank,
+fuel lines, fuel strainer, fuel pump, carburetor, and air cleaner. In
+126
+
+=== PDF PAGE 128 ===
+TM 9-803
+70-72
+FUEL AND AIR INTAKE AND EXHAUST SYSTEMS
+addition to these units an electric-type fuel gage is mounted on the
+instrument panel, and is connected by one wire to a fuel tank unit.
+b. Data.
+Carburetor ....................... Carter WO-539S
+Air cleaner .......................... Oakes 613300
+Fuel pump ............................ AC 1538312
+Fuel pump static pressure ......... 4.5 lb at 1,800 rpm
+Fuel tank capacity .......................... 15 gal
+Fuel strainer ................. Type T-2; AC1595848
+Fuel gage ....................... Electric actuation
+c. Operation. Fuel in the tank is drawn through the fuel strainer
+by the action of a pump mounted on the forward left side of the
+engine. The pump also forces the fuel into the carburetor bowl until
+the flow is shut off by the carburetor float valve. In the carburetor,
+the fuel is proportioned and mixed with air drawn through the
+carburetor, from the oil-bath type air cleaner, by the action of the
+engine pistons. The fuel system must be inspected and cleaned
+periodically (par. 16). Tighten connections which show signs of
+leakage, and replace kinked or damaged lines.
+71. MAINTENANCE.
+a. The carburetor requires attention only to the idle adjustment.
+Fuel lines and vacuum connections must be tight. All mounting
+screws must be tight. Choke and throttle control clamp screws must
+be tight. Exterior of carburetor must be kept clean. All linkage must
+be lubricated at regular intervals, and be free to operate.
+b. The air cleaner requires periodic check of correct oil level and
+condition of oil. Element must be kept clean and free from dirt.
+Mounting screws and clamps must be tight.
+c. The fuel pump requires periodic cleaning of screen. Mounting
+screws and fuel line connections must be tight. Failure to function
+properly requires replacement of unit.
+d. Drain fuel tank periodically to remove dirt and water. All
+connections and mounting bolts must be tight. Filler cap must be
+kept clean, and gasket checked for seat. Filler neck screen must be
+cleaned at regular intervals.
+e. Clean fuel strainer at regular intervals. Gasket must be replaced
+if damaged. All connections and mounting bolts must be tight.
+f. Fuel gage requires no attention other than that mounting
+screws must be tight. Replace damaged or frayed wires. Electrical
+connections must be clean and tight. Failure to operate requires
+replacement of unit.
+72. CARBURETOR.
+a. Description. The carburetor (fig. 35) is of the conventional
+downdraft, plain-tube type, with a throttle operated accelerator
+pump and economizer device. The carburetor is a precision instru
+127
+
+=== PDF PAGE 129 ===
+TM 9-803
+72
+1/ 4 -TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+· -~ ~1~~~ ~~RA PD 305197
+Figure 35-Carburetor Idle Adjustment
+ment which delivers the proper fuel and air mixture for all speeds
+and operating requirements of the engine.
+b. Adjustment. The idle adjustment screw indicated in figure 35
+is the only service adjustment provided on the carburetor. To obtain
+the approximate correct setting, turn the adjustment screw to the
+right and all the way in, but do not jam the screw against the seat;
+then, back out adjustment screw between one and two turns. To
+make the final adjustment, warm up the engine, and adjust the screw
+until the engine runs smoothly. Set the throttle stop screw so the
+engine will idle at 600 revolutions per minute (vehicle speed, 8 mph).
+Replace carburetor if it requires other attention.
+c. Removal. Loosen clamp on air horn and flexible air hose, and
+remove air horn. Remove throttle and choke control wires. Discon
+nect throttle control rod at throttle lever. Disconnect fuel line at
+carburetor. Remove carburetor flange nuts and retracting spring
+clip, and lift off carburetor.
+d. Installation. Inspect condition of gaskets between carburetor
+and manifold, and install new gaskets, if required. Install carburetor
+retracting spring clip, and carburetor flange nuts. Tighten nuts
+evenly. Connect throttle control rod, and throttle and choke wires.
+Install carburetor air horn, and tighten clamp screws. Adjust car
+buretor (subpar. b above).
+128
+
+=== PDF PAGE 130 ===
+TM 9-803
+73
+FUEL AND AIR INTAKE AND EXHAUST SYSTEMS
+FUEL STRAINER
+AIR CLEANER
+-li
+OIL FILTER
+RA PD 305212
+Figure 36-Air Cleaner and Oil Filter
+73. AIR CLEANER.
+a. Description. The air cleaner (fig. 36) is of the oil-bath type,
+and mounted on the right-front side of the dash. Air enters through
+louvers in the dash side of the unit, passes down and across the sur
+face of the oil, up through the filtering element, then to the carbure
+tor. For servicing of air cleaner refer to subparagraph d below.
+b. Removal of Oil Cup. Hold one hand under cup and spring
+loose the two retaining clamps. Remove cup, clean, and refill to indi
+cated oil level. /.
+c. Installation. Place cup in position on bottom of cleaner, push
+up into place, and lock with the retaining clamps.
+d. Removal and Servicing of Air Cleaner. Loosen the hose
+clamp and two wing nuts at the center 'of the dash. Remove two
+wing nuts on right side of dash, and lift out cleaner assembly. Un
+fasten the two clamps holding, oil cup in place, and remove cup (fig.
+37). Unscrew element wing bolt in bottom center of cleaner, and pull
+out cleaner element. Plunge the element up and down in dry-cleaning
+solvent to wash out any dirt, then dry with compressed air.
+129
+
+=== PDF PAGE 131 ===
+TM 9-803
+73-74
+/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+A a C D E
+I~r I
+FLEXIBLE CONNECTION F BODY AM H HOSE
+A FLEXIBLE CONNECTION BODY ASSEMBLY HOSE F
+S TUBE AND BRACKET ASSEMBLY G ELEMENT AND WING BOLT ASSEMBLY
+C BUSHING H CUP
+D HOSE CLAMP I LOWER GASKET
+E CARBURETOR AIR CLEANER HORN J BODY GASKET
+K HOSE CLAMP
+RA PD 305281
+Figure 37-Air Cleaner, Disassembled
+e. Installation. Install the element in cleaner housing, and secure
+in place with retaining bolt. Clean and refill oil cup to indicated
+level,'and clamp into place on cleaner. Mount cleaner on dash, in
+stall :and tighten mounting nuts, and tighten air hose clamp in place.
+74. FUEL PUMP.
+a. Description. The fuel pump (fig. 38) located on the forward,
+left side of the engine is a diaphragm type, operated by a lever
+against an eccentric on the engine camshaft. The pump is equipped
+with a hand lever on the rear side which can be used to operate the
+pump for priming the carburetor bowl. Lever must be placed down
+for camshaft to operate pump. A filter screen in incorporated in the
+fuel bowl, and should be cleaned periodically (subpar. b below).
+b. To Clean Screen. Unscrew knurled nut on bowl clamp, swing
+clamp aside and lift off bowl. Clean screen with dry-cleaning solvent
+and small brush. Dry with compressed air. Blow out fuel chamber
+lightly with compressed air and install screen in place. Install new
+bowl gasket or turn over old one if serviceable. Install bowl, place
+bail clamp in position and tighten securely.
+! 130
+
+=== PDF PAGE 132 ===
+TM 9-803
+74-75
+FUEL AND AIR INTAKE AND EXHAUST SYSTEMS
+'Figure 38--Fuel Pump
+c. Removal. Remove the inlet and outlet lines, remove two
+screws holding pump to side of engine and remove pump.
+d. Installation. Install pump in place on crankcase and tighten
+securely with two screws. Inspect gasket and replace if unserviceable.
+Attach inlet and outlet lines and tighten. Prime pump by operating
+priming lever, start engine, and check connections for leaks.
+75. FUEL TANK.
+a. Description. The fuel tank (fig. 39) is located under the
+driver's seat. An extension filler neck can be pulled up to facilitate
+filling the tank from a container. After removing the filler cap, pull
+up on the filler extension, and turn to the right to lock it in place.
+To remove the filler extension from the tank turn it to the left and
+pull up.
+b. Removal. Drain fuel by removing drain plug in left side of
+tank. Remove bolts in seat rear flange and front legs, then lift out
+seat. Remove filler cap. Disconnect fuel gage wire and remove fuel
+131
+
+=== PDF PAGE 133 ===
+TM 9-803
+75-76
+-/4TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+FILLERC
+d IAPD 303214
+Figure 39-Fuel Tank
+gage unit by taking out five screws. Disconnect fuel line from tank,
+under vehicle. Remove bolt holding tank to wheel housing, remove
+bolts in tank straps, and lift out tank.
+c. Installation. Clean out fuel tank sump in body, and install
+tank in place. Attach tank straps and bolts, also bolt holding tank
+to wheel housing. Connect fuel line to tank. Install fuel gage in tank,
+and attach wire to gage. Set seat in position and secure in place with
+bolts in front legs and seat flange. Fill tank, install cap and check
+tank and connections for leaks.
+76. FUEL STRAINER.
+a. Description. The fuel strainer (fig. 41) has a disk-type
+(laminated) element, and a settling bowl for dirt and water. It is
+located between the fuel tank and the pump, and is mounted on the
+right-front side of the dash. Service this unit in accordance with pre
+ventive maintenance procedure (par. 16).
+132
+
+=== PDF PAGE 134 ===
+TM 9-803
+76
+FUEL AND AIR INTAKE AND EXHAUST SYSTEMS
+L.--A
+M
+N /D
+- -C s-
+C
+A
+E
+F
+G
+HOLD
+FUEL
+GAGE L TANK
+GAGE
+GAGE
+DOWN STRAP J GAGEGASKET
+TANK ASSEMBLY K HOLD DOWN CLAMP
+UNIT PROTECTOR L HOLD DOWN STRAP
+TO TANK SCREW M HOLD DOWN STRAP
+TO TANK SCREW LOCKWASHER N STRAP CLAMP SCREW
+O STRAP CLAMP
+RA PD 334756
+LOCK
+NUT
+NUT
+Figure 40-Fuel Tank, Disassembled
+b. To Clean Strainer. Remove drain plug and allow strainer to
+drain into a container. NOTE: Do not allow fuel to drain onto
+cranking motor. Unscrew cover bolt and remove strainer bowl and
+element. Do not damage bowl gasket. Remove element from bowl,
+and clean thoroughly in dry-cleaning solvent. Be sure all dirt par
+ticles are removed from between disks of the element. Blow element
+dry with compressed air, but do not use extreme pressure. Wash
+strainer bowl, and dry with clean cloth. Install element spring and
+element in bowl. Check condition of element gasket, bowl gasket and
+cover bolt gasket, and replace, if damaged. Install gaskets in posi
+tion, and assemble bowl to cover. Install cover bolt and gasket, and
+tighten securely. Install drain plug. Start engine, run a few minutes,
+stop engine, and check for leaks.
+133
+
+=== PDF PAGE 135 ===
+TM 9-803
+76-77.
+I/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+B A PIPE'PLUG
+B COVER CAP SCREW
+C C COVER CAP SCREW GASKET
+D PIPE REDUCING BUSHING
+D E COVER
+F STRAINER BOWL GASKET
+G STRAINER UNIT GASKET
+H STRAINER UNIT ASSEMBLY
+I STRAINER UNIT SPRING
+J STRAINER BOWL AND CENTER STUD ASSEMBLY
+K STRAINER DRAIN PLUG
+-E
+G
+fl * HH
+1-'t
+u ,J
+U a K
+RA PD 305282
+Figure 41-Fuel Strainer, Disassembled
+c. Removal. Disconnect inlet and outlet lines from strainer (fig.
+36). Open glove compartment door, and remove mounting bolt nuts,
+then remove strainer.
+d. Installation. Place mounting bolts in strainer bracket, and
+reinstall on dash. Install nuts on bolts through glove compartment.
+Attach inlet and outlet lines to strainer. Start engine, run a few
+minutes, stop engine, and check for leaks.
+77. FUEL GAGE.
+a. Description. The fuel gage consists of an electrical indicating
+unit located in the instrument panel, and a tank unit in the fuel
+tank, for actuating the instrument panel unit. A float in the tank
+operates a rheostat, which governs the current flowing through the
+134
+
+=== PDF PAGE 136 ===
+TM 9-803
+77-78
+FUEL AND AIR INTAKE AND EXHAUST SYSTEMS
+instrument panel gage. The gage registers only while the ignition
+switch is on. The fuel gage wiring circuit is shown in figure 42.
+b. Removal of Tank Unit. Remove bolts in seat rear flange and
+front legs. Take out seat. Disconnect fuel gage wire, and remove tank
+unit, by unscrewing five screws.
+c. Installation of Tank Unit. Inspect gasket, and replace if dam
+aged. Install tank unit, and secure with five screws. Attach wire to
+fuel gage. Check operation of gage by turning ignition switch to "ON"
+position; gage must register amount of fuel in tank. Turn off ignition
+BATTERY GROUND CABLE
+BATTERY
+BATTERY POSITIVE CABLE
+AMMETER TANK UNIT
+'TEFUEL GA. DASH UNIT
+IGNITION SWITCH
+CIRCUIT BREAKER
+RA PD 305198
+Figure 42-Fuel Gage Wiring Circuit
+switch. Install seat, and secure in place with bolts in front legs and
+seat rear flange.
+d. Removal of Fuel Gage (Instrument Panel). Disconnect posi
+tive terminal cable at battery. Remove wires on back of gage, and
+two retaining nuts on the retaining bracket. Remove bracket and
+take gage out through front of panel.
+e. Installation of Fuel Gage (Instrument Panel). Place gage in
+panel, and install retaining clamp and nuts. Position gage correctly,
+and tighten retaining clamp nuts. Attach wires (wire to tank unit is
+attached to left terminal; wire from circuit breaker attaches to right-
+hand terminal). Clean terminal, and install positive cable on battery.
+78. EXHAUST SYSTEM.
+a. Description. The exhaust system (fig. 43) consists of the
+exhaust pipe which, for maximum road clearance, passes under the
+vehicle to the muffler located under the right side of the body. A
+135
+
+=== PDF PAGE 137 ===
+TM 9-803
+78
+-/4TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+flexible section of the exhaust pipe permits movement of the engine
+in the frame.-The muffler is mounted on brackets with fabric inserts.
+'b. Removal of Exhaust Pipe. Remove three bolts in exhaust
+pipe shield at right frame member and remove shield. Remove two
+exhaust pipe clamp bolts in skid plate under transmission. Loosen
+clamp on exhaust pipe, at front end of muffler. Remove bolt and
+A MUFFLER SUPPORT INSULATOR PLATE K PIPE EXTENSION TO SKIDPLATE PLAIN WASHER
+B BODY SILL TO MUFFLER SUPPORT BOLT L EXTENSION TO SKID PLATELOCK WASHER
+C MUFFLER SUPPORT INSULATOR M EXTENSION TO SKIDPLATE NUT
+D SUPPORT SCREW N EXTENSION TO SKID PLATEBOLT
+E SUPPORT INSULATOR PLATE O EXTENSION CLAMP
+F SUPPORT CLAMP P EXHAUST PIPEASSEMBLY
+G SUPPORT STRAP 0 CLAMP SCREW NUT
+MUFFLER ASSEMBLY R CLAMP SCREW
+A B I
+J 
+TAIL PIPE CLAMP
+UNDERFRAME SKID PLATE 
+S PIPE TO MUFFLER CLAMP
+screw in exhaust pipe flange at exhaust manifold. Drop front end of
+exhaust pipe, and remove from the left side of vehicle. Discard
+gasket.
+c. Installation of Exhaust Pipe. Install pipe in position, and
+insert rear end in muffler. Install exhaust pipe manifold flange
+gasket, and attach pipe to manifold with screw and nut, and tighten
+evenly. Attach clamp at muffler, and attach exhaust pipe shield with
+three bolts.
+d. Removal of Muffler. To remove the muffler, loosen exhaust
+pipe clamp. Remove muffler front support bolt and tail pipe support
+bolt. Remove muffler assembly, after which, remove muffler strap and
+tail pipe clamp.
+e. Installation of Muffler. Loosely install tail pipe clamp and
+support clamp on muffler. Place muffler on exhaust pipe. Install bolt
+through tail pipe clamp and flexible mounting. Tighten tail pipe
+clamp bolt. Install bolt in muffler support and flexible mounting.
+Tighten muffler strap bolt and exhaust pipe clamp.
+136

@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+/* ── Motor Pool design tokens v2: clean bold, olive & brass ──
+   Type rules:
+   - bold sans        = structure (headings, labels, badges)
+   - script (accent)  = brand voice, max twice per page
+   - courier          = ONLY verbatim archive material (citations, emblem ring)
+*/
+@theme {
+  --color-paper: #f4eedd;
+  --color-paper-dim: #ece5cf;
+  --color-ink: #26251f;
+  --color-ink-soft: #57544a;
+  --color-ink-faint: #8a8478;
+
+  --color-olive: #3d5c3a;
+  --color-olive-deep: #2f3324;
+  --color-olive-drab: #4a4f38;
+  --color-olive-tint: #c9d4b8;
+  --color-khaki: #c9c4a8;
+  --color-brass: #d9b44a;
+  --color-brass-deep: #6b5a20;
+  --color-brass-soft: #a98a3f;
+
+  --font-script: "Yellowtail", cursive;
+  --font-archive: "Courier New", Courier, monospace;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+}
+
+/* letterspaced sans kicker — replaces the old courier section labels */
+.kicker {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: var(--color-brass-soft);
+}
+
+/* clean card — no borders, radius + surface does the work */
+.card {
+  background: #ffffff;
+  border-radius: 16px;
+}
+.card-dim {
+  background: var(--color-paper-dim);
+  border-radius: 16px;
+}
+
+/* pill button / badge */
+.pill {
+  border-radius: 99px;
+  font-weight: 700;
+}
+
+/* archive text — verbatim manual material only */
+.archive {
+  font-family: var(--font-archive);
+  font-size: 11px;
+  color: var(--color-ink-faint);
+}
+
+/* brand script accent */
+.script {
+  font-family: var(--font-script);
+  font-weight: 400;
+}
+
+/* system roundel */
+.roundel {
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}

@@ -1,0 +1,376 @@
+=== PDF PAGE 138 ===
+TM 9-803
+79
+Sedtion XVII
+COOLING SYSTEM
+Paragraph
+Description and data .................................... 79
+Maintenance ........................................ 80
+Radiator .................................. ...... 81
+Water pump ........................................... 82
+Fan belt .................................. ...... 83
+Fan .................................. ...... 84
+Thermostat ........................................ 85
+Temperature gage ....................................... 86
+79. DESCRIPTION AND DATA.
+a. Description; The cooling system (fig. 44) consists of the
+radiator, pressure-type filler cap, fan, fan belt, water pump, ther
+mostat, and temperature gage. The system is of the sealed type,
+operating under pressure when the engine is warmed up. When in
+proper condition, the units of the cooling system automatically main
+tain the engine at the proper operating temperature. The filler pipe
+is in the top of the radiator at the right side. There are two drain
+cocks, one in the radiator outlet at the lower left corner, and the other
+in the right side of the cylinder block at the forward end. In oper
+ation the water pump draws the coolant from the bottom of the
+radiator through the hose connection, and forces it through the cylin
+der block, past the thermostat, and back to the radiator, where it is
+cooled by the action of the fan drawing air through the radiator core.
+The cooling system capacity is 11 quarts.
+b. Data.
+Cooling system
+Capacity .................................. 11 qt
+Radiator
+Type .............................. Fin and tube
+Filler cap ................. '........ Pressure type
+Water pump
+Type ................................ Centrifugal
+Drive .................................. Fan belt
+Bearings ...................... Prelubricated ball
+Fan belt
+Type ...................................... Vee
+Length ................................. 44/8 in.
+Width ................... ........... 
+1 
+A6 in.
+Angle of Vee ............................ 42 deg
+Fan
+Blades ........................................ 4
+Diameter ................................. 15 in.
+137
+
+=== PDF PAGE 139 ===
+TM 9-803
+79-80
+1/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+Thermostat
+Opens ............................ 1450 to 155°F
+Fully open ............................... 170°F
+Temperature gage type ................... Capillary
+80. MAINTENANCE.
+a. The cooling system must be inspected in accordance with pre
+ventive maintenance procedures (pars. 13 and 16). When draining
+the cooling system refer to caution plate on the instrument panel (fig.
+7). General maintenance of the cooling system consists of the follow
+ing procedures.
+(1) Keep sufficient coolant in the system. Use clean water to
+which must be added the specified rust inhibitor; at temperatures
+below 32°F, add proper quantity of antifreeze solution (par. 7).
+(2) Drain, flush, and refill system whenever inspection reveals
+any accumulation of rust or scale. Clean system seasonally as well
+as before and after using antifreeze solution.
+(3) If engine overheats due to lack of coolant in the system, do
+not add cold water immediately. Let engine cool so that radiator
+does not boil, start engine, and add water slowly to prevent damage
+to cylinder block and head.
+(4) Do not overfill radiator. Fill radiator to bottom of baffle
+visible through the radiator filler hole.
+(5) Keep cylinder head, water pump, hose clamps, and connec
+tions leakproof. Replace deteriorated or leaky hose.
+(6) Adjust fan belt and replace as required.
+(7) Test periodically for air suction and exhaust gas leaking into
+system (subpars. c and d below).
+b. Draining and Refilling System.
+(1) Drain the cooling system, when required, by opening the
+drain cocks at the lower left corner of the radiator, and at the right
+front corner of the cylinder block. Loosen the pressure-type radiator
+cap to break any vacuum which might prevent proper draining. If
+solution is to be saved, catch it in a clean container. If system is not
+to be refilled immediately, attach a tag to the steering wheel, warning
+personnel about the system being drained.
+(2) Refill the cooling system by first closing the two drain cocks
+tightly. Use clean water available, preferably soft water (water with
+low alkali content or other substances that promote rust and scale).
+Fill system through radiator filler pipe until level is up to lower edge
+of baffle visible through filler hole. Install radiator cap, and turn
+clockwise to tighten. Start engine and warm up. Check coolant level
+in radiator, and add more if required.
+c. Air Suction Test. The air suction test is used to determine
+if air is entering the coolant, possibly due to low coolant level in the
+radiator, leaky water pump, or loose hose connections. To make test,
+138
+
+=== PDF PAGE 140 ===
+TM 9-803
+80
+COOLING SYSTEM
+R7.2RAP0305200
+Figure 44-Cooling System
+fill system to bottom edge of baffle in top of radiator. Replace pres
+sure type cap with plain cap, and tighten securely (airtight). Attach
+length of rubber tubing to lower end of overflow pipe (this connec
+tion must be airtight). Run engine, with transmission in neutral, at
+a moderate speed until warmed up. Place tubing in glass container
+of water, and without changing engine speed, watch for bubbles in
+water. Continuous appearance of bubbles indicates that air is enter
+ing coolant. The cause will be one of the above, and must be
+corrected.
+d. Exhaust Gas Leakage Test. The exhaust gas leakage test is
+used to determine if gas is entering the coolant, possibly due to leaky
+cylinder block, cylinder head, or gasket. NOTE: Make this test with
+engine cold. Remove fan belt. Open radiator drain cock until coolant
+is below cylinder head water outlet. NOTE: Determine by loosening
+three screws holding outlet to head. Remove water outlet, and fill
+cylinder head with coolant until level is up to top of head. With
+139
+
+=== PDF PAGE 141 ===
+TM 9-803
+80-82
+1/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+transmission in neutral, start engine, "gun" it several times, and
+watch for bubbles in water. Appearance of bubbles indicates leakage
+from one of the above conditions, which must be corrected. Replace
+leaky gasket; report other causes to higher authority.
+e. Cleaning and Flushing Procedure. This procedure is used to
+clean out loose rust. Run engine at moderate speed to stir up loose
+rust. Drain cooling system. Close drain cocks, and fill system with
+specified cleaning compound. Install radiator cap. Operate engine
+as directed for prescribed solution. Stop.engine and completely drain
+system by opening both drain cocks. To flush system close drain
+cocks, fill system with water, run engine until warmed up again, or
+run water through system, then completely drain. Close drain cocks,
+refill system, and add inhibitor corrosion compound to prevent for
+mation of rust and scale. Inhibitor compound must be renewed
+periodically to be effective.
+81. RADIATOR.
+a. Description. The radiator assembly (fig. 44) consists of the
+fin-and-tube type core with a coolant tank at the top, and a sedi
+ment tank at the bottom. It is located in the conventional place at
+the front of the vehicle. A pressure-type filler cap maintains up to
+4¼/-pound pressure to give better engine efficiency, and prevent
+evaporation of the coolant. When the engine is warm, release pressure
+by turning cap slightly before removal.
+b. Removal. Remove the radiator filler cap. Open the drain cock
+on bottom of radiator outlet and right front corner of cylinder block
+to drain system. Remove radiator stay rod nut at front end. Loosen
+hose clamp on upper hose at front end. Loosen hose connection at
+water pump. Remove two radiator hold-down nuts and lift off
+radiator, then remove drain cock and pads.
+c. Installation. Install drain cock and place pads on bracket; set
+radiator in place. NOTE: A light coating of grease in hose connec
+tions will facilitate assembly. Install stay rod and tighten lock nut.
+Tighten upper and lower hose clamps. Install hold-down nuts and
+bond strap. Close radiator drain cock and cylinder block drain cock.
+Fill radiator, install cap, and check system for leaks. Start engine,
+check coolant level after engine is warmed up, and fill, if needed, to
+proper level.
+82. WATER PUMP.
+a. Description. The water pump (fig. 44) is of the centrifugal-
+impeller type and is located in the front end of the cylinder block.
+A double-row ball bearing is integral with the shaft, and is packed
+with lubricant when it is made. No lubrication attention is required.
+A packless self-sealing gland is used to prevent water leakage, and
+requires no attention. The water pump with the generator and fan
+is driven by a belt from the engine crankshaft fan pulley.
+140
+
+=== PDF PAGE 142 ===
+TM 9-803
+82-83
+COOLING SYSTEM
+oo
+Figure 45-Fan Belt Deflection
+b. Removal. Open the radiator drain cock in outlet pipe at lower
+left corner of radiator, and also drain cock in right side of cylinder
+block at forward end. Remove radiator filler cap. Pull up on handle
+of generator brace to loosen fan belt, and slip off belt. Loosen pump
+hose clamp and remove hose. Remove fan blade screws. Remove
+screws holding water pump in cylinder block, and remove water
+pump.
+· c. Installation. Check condition of pump to cylinder block
+gasket. Replace if damaged. Install pump in cylinder block, and
+tighten with screws. Install fan and screws. Install fan belt, and pull
+out generator until brace drops into position. Attach hose connection.
+Fill radiator, install cap, and check system for leaks. Start engine and
+check radiator coolant level after engine is warmed up.
+83. FAN BELT.
+a. Description. The fan belt (fig. 45) is of the V-type and drives
+the fan, water pump, and generator. Proper adjustment is necessary
+141
+
+=== PDF PAGE 143 ===
+TM 9-803
+83-84
+1/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+for efficient operation and maximum life of belt. Do not adjust the
+belt extremely tight, causing excessive wear on water pump and
+generator bearings.
+b. Removal. Pull up on generator brace handle, and move gener
+ator toward engine as far as it will go. Remove belt from generator,
+pump, and crankshaft pulleys, and lift over fan blades.
+c. Installation and Adjustment. Place belt over fan and crank
+shaft pulleys, then over the generator pulley. Pull generator out until
+WATER OUTLET ELBOW
+CYLOCK WASHER
+GASKET
+THERMOSTAT
+THERMOSTAT RETAINER CYLINDER HEAD BOLT
+CYLINDER HEAD \
+CYLINDER HEAD
+GASKET I
+RA PD 305236
+Figure 46-Thermostat, Disassembled
+generator brace locks in position. To adjust fan belt tension, loosen
+generator brace nut, and move generator until fan belt has about
+one-inch deflection midway between fan and generator pulleys (fig.
+45), then tighten nut.
+84. FAN.
+a. Description. A four-blade, 15-inch fan (fig. 44) draws air
+through the radiator core. It is mounted on the front end of the water
+pump shaft and is driven from the crankshaft by the same belt which
+drives the generator.
+142
+
+=== PDF PAGE 144 ===
+TM 9-803
+84-86
+COOLING SYSTEM
+b. Removal. Remove four screws holding fan on fan pulley, and
+lift fan out of shroud.
+c. Installation. Place fan in position on fan pulley, install four
+screws, and tighten securely.
+85. THERMOSTAT.
+a. Description. The thermostat (fig. 44) is of the bellows-type,
+and located in the water outlet elbow on top of the cylinder head.
+It is designed to open between 140
+0 
+F and 155
+0
+F, and is fully open
+at 170
+0 
+F.
+b. Removal. Drain the cooling system by opening drain cock at
+lower left side of radiator. Loosen hose clamp at cylinder head water
+outlet elbow; remove three screws, and lift off elbow. Pull out ther
+mostat retaining ring in elbow, and take out thermostat (fig. 46).
+c. Installation. Place thermostat in water outlet elbow with bel
+lows down, so that coolant can reach bellows, to cause valve to
+operate. Install retaining ring with flanged edge against thermostat.
+Check condition of gasket and cylinder head surface. Install new
+gasket if necessary. Insert outlet elbow in hose connection. Install
+outlet elbow on cylinder head, and tighten in place with three screws.
+Tighten hose connection. Close radiator drain cock, and fill cooling
+system, giving due attention to antifreeze, if required. Start engine,
+and check for leaky connections after engine is warmed up.
+86. TEMPERATURE GAGE.
+a. Description. The temperature gage (fig. 5) is of the Bourdon
+type with a capillary tube connecting it to an expansion bulb in the
+right side of the cylinder head. The entire system is sealed into one
+assembly; if any difficulty is experienced, the whole assembly must
+be replaced.
+b. Removal. Drain the cooling system by opening drain cock
+under left side of radiator. Remove engine unit in right side of cylin
+der head by unscrewing retaining nut in reducing bushing. Remove
+two nuts holding retaining bracket on back of gage. Remove grommet
+around tube through dash and draw out gage assembly, tube, and
+engine unit through hole in panel.
+c. Installation. Insert engine unit through hole in panel, mount
+ing bracket, and dash. Position gage correctly, install mounting
+bracket and nuts; tighten securely. Insert grommet in dash. Install
+engine unit, and tighten retaining nut. Fill cooling system, and check
+for leaks.
+143
+
+=== PDF PAGE 145 ===
+TM 9-803
+87-89
+A/4-TON 4 x 4 TRUCK (WILLYS-OVERLAND MODEL MB
+and FORD MODEL GPW)
+Section XVIII
+STARTING SYSTEM
+Paragraph
+Description and data .................................... 87
+Maintenance ................ :............................. 88
+Cranking motor ...................................... 89
+Starting switch ........................................ 90
+87. DESCRIPTION AND DATA.
+a. Description. The starting system (fig. 47) is a 6-volt system.
+It consists of the starting switch, cranking motor, an d the cables
+through which they are connected to the battery of the electrical
+system. When the starting switch is pressed with the right foot, the
+battery current energizes the cranking motor, causing the armature
+to turn. This results in the inertia-type cranking motor gear engag
+ing the teeth on the outer circumference of the flywheel. When the
+engine starts, the gear is automatically thrown out of engagement
+with the flywheel teeth.
+b. Data.
+System voltage ............................... 6
+Cranking motor
+Normal engine cranking speed .'............ 185 rpm
+Make and model ............... Auto-Lite MZ-4113
+Bearings ..................................... 3
+Brushes ...................................... 4
+Brush spring tension ................ 42 to 53 oz
+Drive (direct) .............. R.H. outboard Bendix
+Starting switch
+Make and model ............ Auto-Lite SW-4015
+88. MAINTENANCE.
+a. The cranking motor requires lubrication only at the forward
+end. Check tightness of mounting screws. Wire terminals must be in
+good condition, clean, and tight. As part of the starting system, check
+the battery condition periodically. Clean the cranking motor drive
+periodically (par. 89).
+89. CRANKING MOTOR.
+a. Description. The cranking motor is a 6-volt, four-brush type,
+located at the right-rear side of the engine. The drive is transmitted
+to the engine from an inertia-type gear to the teeth on a removable
+ring gear on the circumference of the flywheel. Rotation of the
+cranking motor shaft causes the pinion of the cranking motor drive
+144
+
+=== PDF PAGE 146 ===
+TM 9-803
+89-90
+STARTING SYSTEM
+to advance and mesh with the gear on the flywheel. After the engine
+starts, and the speed of the flywheel exceeds that of the cranking
+motor, the flywheel disengages the pinion automatically. A remov
+able cover at the front end of the cranking motor permits inspection
+of the brushes and commutator.
+b. Removal. Remove cable from motor. Remove screw from
+front support bracket, and remove two attaching screws at flywheel.
+Remove cranking motor. Remove front bracket.
+e. Installation. Clean cranking motor gear. Do not oil drive.
+Install front bracket and place cranking motor in position on engine.
+Insert attaching screws, also bracket screw, and tighten securely.
+Attach cable.
+BATTERY GROUND CABLE
+BATTERY
+BATTERY POSITIVE CABLE
+. _ + , A TO RADIO OUTLET BOX
+TO AMMETER
+STARTING SWITCH
+CRANKING MOTOR
+RA [D 305202
+Figure 47-Starting System Circuit
+90. STARTING SWITCH.
+a. Description. The starting switch is a push-button type oper
+ated with the right foot, and located to the right of the accelerator
+treadle on the toeboard (fig. 5). Press the button to close the switch
+and cause the cranking motor to operate.
+b. Removal. Remove battery cable at negative post of battery.
+Remove air cleaner (par. 73). Remove cable terminal nuts on switch,
+and remove cables and wires. Remove two screws holding switch to
+toeboard, and remove switch from underneath.
+c. Installation. Remove cable terminal nuts, place switch in posi
+tion under toeboard, and tighten in place with two screws. Attach
+cables and wires. NOTE: Battery positive cable and wires to radio
+outlet box, filter, and ammeter are attached to top terminal. Install
+air cleaner (par. 73), and connect battery cable to negative post on
+battery.
+145

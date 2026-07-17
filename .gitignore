@@ -1,0 +1,15 @@
+# dependencies & build
+node_modules/
+.next/
+out/
+
+# secrets
+.env
+.env.*
+
+# local junk
+*.log
+debug-chunk-*.txt
+
+# source PDFs — 111MB, public domain, re-downloadable (see Manuals/README note)
+Manuals/

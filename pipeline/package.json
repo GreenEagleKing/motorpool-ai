@@ -1,0 +1,14 @@
+{
+  "name": "motor-pool-pipeline",
+  "version": "0.1.0",
+  "description": "Ingestion pipeline: manual PDFs -> text -> Claude extraction -> KB entries",
+  "type": "module",
+  "scripts": {
+    "extract-text": "node extract-text.mjs",
+    "extract-entries": "node extract-entries.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "pdfjs-dist": "^4.6.82"
+  }
+}
