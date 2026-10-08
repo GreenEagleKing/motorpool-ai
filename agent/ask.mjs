@@ -42,7 +42,11 @@ const tools = [
       type: 'object',
       properties: {
         query: { type: 'string', description: 'Keywords to search for' },
-        type: { type: 'string', enum: ['spec', 'part', 'procedure', 'issue', 'history'], description: 'Optional filter' },
+        type: {
+          type: 'string',
+          enum: ['spec', 'part', 'procedure', 'issue', 'history'],
+          description: 'Optional filter',
+        },
       },
       required: ['query'],
     },
@@ -54,7 +58,8 @@ const client = new Anthropic(); // reads ANTHROPIC_API_KEY
 
 const messages = [{ role: 'user', content: question }];
 
-while (true) {
+let rounds = 0;
+while (rounds < 5) {
   const msg = await client.messages.create({
     model: 'claude-sonnet-5',
     max_tokens: 2000,
@@ -73,7 +78,9 @@ while (true) {
   const results = [];
   for (const block of msg.content) {
     if (block.type !== 'tool_use') continue;
-    const hits = searchKb(entries, block.input.query, { type: block.input.type ?? null });
+    const hits = searchKb(entries, block.input.query, {
+      type: block.input.type ?? null,
+    });
     console.error(`  search_kb("${block.input.query}") -> ${hits.length} hits`);
     results.push({
       type: 'tool_result',
@@ -86,4 +93,10 @@ while (true) {
     });
   }
   messages.push({ role: 'user', content: results });
+  rounds++;
+}
+
+if (rounds >= 5) {
+  console.error('Max rounds reached, aborting.');
+  process.exit(1);
 }
