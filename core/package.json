@@ -1,0 +1,6 @@
+{
+  "name": "@motorpool/core",
+  "private": true,
+  "type": "module",
+  "exports": "./search.ts"
+}
