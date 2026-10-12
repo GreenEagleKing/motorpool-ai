@@ -5,7 +5,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { loadKb } from '../lib/search.mjs';
+import { loadKb } from '@motorpool/core';
 
 const KB_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', '..', 'kb');
 const entries = loadKb(KB_DIR);
