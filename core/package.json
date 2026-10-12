@@ -2,5 +2,9 @@
   "name": "@motorpool/core",
   "private": true,
   "type": "module",
-  "exports": "./search.ts"
+  "exports": "./search.ts",
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "typescript": "^7.0.2"
+  }
 }
