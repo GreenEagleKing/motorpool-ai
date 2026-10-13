@@ -4,6 +4,7 @@ const nextConfig = {
   outputFileTracingIncludes: {
     '/**': ['../kb/**/*'],
   },
+  transpilePackages: ['@motorpool/core'],
 };
 
 export default nextConfig;

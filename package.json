@@ -1,0 +1,10 @@
+{
+  "name": "motorpool",
+  "private": true,
+  "workspaces": [
+    "pipeline",
+    "web",
+    "agent",
+    "core"
+  ]
+}

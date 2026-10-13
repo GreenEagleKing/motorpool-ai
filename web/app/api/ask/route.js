@@ -14,7 +14,11 @@ const tools = [
       type: 'object',
       properties: {
         query: { type: 'string', description: 'Keywords to search for' },
-        type: { type: 'string', enum: ['spec', 'part', 'procedure', 'issue', 'history'], description: 'Optional filter' },
+        type: {
+          type: 'string',
+          enum: ['spec', 'part', 'procedure', 'issue', 'history'],
+          description: 'Optional filter',
+        },
       },
       required: ['query'],
     },
@@ -60,7 +64,11 @@ export async function POST(request) {
       results.push({
         type: 'tool_result',
         tool_use_id: block.id,
-        content: JSON.stringify(hits, null, 2),
+        content: JSON.stringify(
+          hits.map(({ score, ...e }) => e),
+          null,
+          2
+        ),
       });
     }
     messages.push({ role: 'user', content: results });

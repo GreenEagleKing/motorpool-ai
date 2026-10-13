@@ -9,7 +9,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { loadKb, searchKb } from './lib/search.mjs';
+import { loadKb, searchKb } from '@motorpool/core';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const KB_DIR = join(__dirname, '..', 'kb');
