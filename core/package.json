@@ -2,9 +2,12 @@
   "name": "@motorpool/core",
   "private": true,
   "type": "module",
-  "exports": "./search.ts",
+  "exports": "./index.ts",
   "devDependencies": {
     "@types/node": "^24.19.2",
     "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.1"
   }
 }
