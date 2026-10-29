@@ -47,6 +47,10 @@ for (const s of result.searches) {
 if (result.ok) {
   console.log(result.answer);
 } else {
-  console.error(`Agent failed: ${result.error}`);
+  if (result.error === 'api_error') {
+    console.error(`Agent failed: ${result.error} - ${result.message}`);
+  } else {
+    console.error(`Agent failed: ${result.error}`);
+  }
   process.exit(1);
 }
