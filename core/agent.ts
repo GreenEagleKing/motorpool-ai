@@ -62,13 +62,19 @@ export async function runAgent({
   const searches: SearchRecord[] = [];
 
   for (let round = 0; round < maxRounds; round++) {
-    const messageResponse = await client.messages.create({
-      model: 'claude-sonnet-5',
-      max_tokens: 2000,
-      system: systemPrompt,
-      messages: history,
-      tools,
-    });
+    let messageResponse: Anthropic.Message;
+    try {
+      messageResponse = await client.messages.create({
+        model: 'claude-sonnet-5',
+        max_tokens: 2000,
+        system: systemPrompt,
+        messages: history,
+        tools,
+      });
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      return { searches, ok: false, error: 'api_error', message };
+    }
 
     history.push({ role: 'assistant', content: messageResponse.content });
     if (messageResponse.stop_reason !== 'tool_use') {
