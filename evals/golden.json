@@ -47,5 +47,40 @@
     "shouldAnswer": false,
     "expectedIds": [],
     "mustMention": []
+  },
+  {
+    "id": "tappet-adjustment",
+    "question": "What's the tappet adjustment gap?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/engine/tappet-clearance"],
+    "mustMention": ["0.014", ["inch", "in"]]
+  },
+  {
+    "id": "exhaust-gas-test",
+    "question": "I have low compression, how can I test for a possible leak?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/cooling/exhaust-gas-leakage-test"],
+    "mustMention": ["exhaust", "coolant"]
+  },
+  {
+    "id": "coolant-flush",
+    "question": "How do I flush the coolant?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/cooling/clean-flush"],
+    "mustMention": ["drain"]
+  },
+  {
+    "id": "fuel-pump-replacement",
+    "question": "How do I replace the fuel pump?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/fuel/fuel-pump-removal-installation"],
+    "mustMention": ["prim"]
+  },
+  {
+    "id": "why-engine-hot",
+    "question": "Why is my engine running hot?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/cooling/overheating-no-cold-water"],
+    "mustMention": ["coolant", ["can't confirm", "doesn't cover", "not a full", "don't have"]]
   }
 ]
