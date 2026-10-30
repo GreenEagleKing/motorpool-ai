@@ -1,0 +1,51 @@
+[
+  {
+    "id": "gas-capacity",
+    "question": "How much gas does it hold?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/fuel/fuel-tank-capacity"],
+    "mustMention": ["15", "gal"]
+  },
+  {
+    "id": "cylinder-head-torque",
+    "question": "What is the torque setting for the engine head cylinder nuts?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/engine/cylinder-head-torque"],
+    "mustMention": ["60", "65", ["ft-lb", "foot-pound", "lb-ft"]]
+  },
+  {
+    "id": "idle-speed",
+    "question": "What's the idle speed on an MB jeep?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/fuel/idle-speed-spec"],
+    "mustMention": ["600"]
+  },
+  {
+    "id": "brake-fluid",
+    "question": "What brake fluid does an MB take?",
+    "shouldAnswer": false,
+    "expectedIds": [],
+    "mustMention": []
+  },
+  {
+    "id": "gearbox-fluid-capacity",
+    "question": "How much oil does the gearbox take?",
+    "shouldAnswer": false,
+    "expectedIds": [],
+    "mustMention": []
+  },
+  {
+    "id": "clutch-change",
+    "question": "How do I change the clutch?",
+    "shouldAnswer": false,
+    "expectedIds": [],
+    "mustMention": []
+  },
+  {
+    "id": "oil-pressure-normal",
+    "question": "What's the normal oil pressure?",
+    "shouldAnswer": false,
+    "expectedIds": [],
+    "mustMention": []
+  }
+]
