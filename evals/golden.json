@@ -53,7 +53,7 @@
     "question": "What's the tappet adjustment gap?",
     "shouldAnswer": true,
     "expectedIds": ["willys-mb/engine/tappet-clearance"],
-    "mustMention": ["0.014", ["inch", "in"]]
+    "mustMention": ["0.014", "inch"]
   },
   {
     "id": "exhaust-gas-test",
