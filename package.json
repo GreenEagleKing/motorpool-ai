@@ -5,6 +5,7 @@
     "pipeline",
     "web",
     "agent",
-    "core"
+    "core",
+    "evals"
   ]
 }

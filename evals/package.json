@@ -1,0 +1,15 @@
+{
+  "name": "motor-pool-evals",
+  "type": "module",
+  "scripts": {
+    "evals": "node --env-file=../web/.env run.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "@motorpool/core": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "typescript": "^7.0.2"
+  }
+}
