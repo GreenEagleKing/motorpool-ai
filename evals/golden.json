@@ -82,5 +82,61 @@
     "shouldAnswer": true,
     "expectedIds": ["willys-mb/cooling/overheating-no-cold-water"],
     "mustMention": ["coolant", ["can't confirm", "doesn't cover", "not a full", "don't have"]]
+  },
+  {
+    "id": "replace-thermostat",
+    "question": "How do I replace the thermostat?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/cooling/thermostat-removal-installation"],
+    "mustMention": ["bellows"]
+  },
+  {
+    "id": "head-gasket-sealant",
+    "question": "Do I need sealant on the head gasket?",
+    "shouldAnswer": false,
+    "expectedIds": ["willys-mb/engine/cylinder-head-gasket"],
+    "mustMention": [["dry", "no sealant", "doesn't call for"]]
+  },
+  {
+    "id": "head-gasket-torque-slang",
+    "question": "How tight head gasket nuts?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/engine/cylinder-head-torque"],
+    "mustMention": ["60"]
+  },
+  {
+    "id": "tyre-pressure",
+    "question": "What is the correct tyre pressure?",
+    "shouldAnswer": false,
+    "expectedIds": [],
+    "mustMention": []
+  },
+  {
+    "id": "exhaust-muffler-replace",
+    "question": "How do I replace the muffler?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/fuel/muffler-removal-installation"],
+    "mustMention": ["muffler strap"]
+  },
+  {
+    "id": "firing-order-tappet-adjustment",
+    "question": "What is the correct firing order and tappet gap?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/engine/firing-order", "willys-mb/engine/tappet-clearance"],
+    "mustMention": ["0.014", "1-3-4-2"]
+  },
+  {
+    "id": "carburetor-type",
+    "question": "What carburetor is found on a wartime jeep?",
+    "shouldAnswer": true,
+    "expectedIds": ["willys-mb/fuel/carburetor-part"],
+    "mustMention": ["539"]
+  },
+  {
+    "id": "wc51-engine-type",
+    "question": "What engine is in a Dodge WC51?",
+    "shouldAnswer": false,
+    "expectedIds": [],
+    "mustMention": []
   }
 ]
