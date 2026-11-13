@@ -55,7 +55,7 @@ export default function Home() {
             </p>
             <Link
               href="/vehicle/willys-mb"
-              className="display inline-flex items-center gap-2 min-h-11 px-1.5 font-medium text-base tracking-[2px] underline decoration-(--color-brass) decoration-[3px] underline-offset-[6px]"
+              className="display inline-flex items-center gap-2 min-h-11 px-1.5 font-medium text-base tracking-[2px]"
             >
               or browse the vehicle files <span aria-hidden="true">→</span>
             </Link>
@@ -145,7 +145,7 @@ export default function Home() {
             <p className="kicker mb-2.5">Straight from the books</p>
             <p className="display font-medium text-[30px] leading-[1.2]">
               “Set the throttle stop screw so the engine idles at{' '}
-              <span className="bg-(--color-brass) px-1.5">600 rpm</span>.”
+              <span>600 rpm</span>.”
             </p>
             <p className="mt-3.5 text-[15px] text-(--color-ink-soft)">
               Q: What idle speed should the engine run at? — TM 9-803 §72B, p.72 · confidence: manual
