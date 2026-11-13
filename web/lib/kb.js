@@ -1,12 +1,12 @@
 // Web apps connector to the shared core
 
-import { loadKb as loadKbFrom, searchKb } from '@motorpool/core';
-import { resolve } from 'node:path';
+import { searchKb } from '@motorpool/core';
+import cooling from '../../kb/willys-mb/cooling.json';
+import engine from '../../kb/willys-mb/engine.json';
+import fuel from '../../kb/willys-mb/fuel.json';
 
-export const loadKb = () => loadKbFrom(KB_DIR);
+export const loadKb = () => [...cooling.entries, ...engine.entries, ...fuel.entries];
 export { searchKb };
-
-const KB_DIR = resolve(process.cwd(), '..', 'kb');
 
 export function systemsForVehicle(entries, vehicle) {
   const bySystem = new Map();

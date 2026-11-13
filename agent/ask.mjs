@@ -6,10 +6,9 @@
 // Needs ANTHROPIC_API_KEY for full answers. --retrieve-only works without.
 
 import Anthropic from '@anthropic-ai/sdk';
-import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { runAgent, loadKb, searchKb } from '@motorpool/core';
+import { runAgent, loadKb, searchKb, answerPrompt } from '@motorpool/core';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const KB_DIR = join(__dirname, '..', 'kb');
@@ -33,7 +32,7 @@ if (retrieveOnly) {
   process.exit(0);
 }
 
-const systemPrompt = readFileSync(join(__dirname, 'prompts', 'answer.md'), 'utf8');
+const systemPrompt = answerPrompt;
 const client = new Anthropic(); // reads ANTHROPIC_API_KEY
 
 const messages = [{ role: 'user', content: question }];

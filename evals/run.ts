@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import Anthropic from '@anthropic-ai/sdk';
-import { runAgent, loadKb } from '@motorpool/core';
+import { runAgent, loadKb, answerPrompt } from '@motorpool/core';
 import { retrievalPass, answerPass, isRefusal } from './grade.ts';
 
 export type GoldenCase = {
@@ -24,7 +24,7 @@ const text = readFileSync(new URL('./golden.json', import.meta.url), 'utf8');
 const cases: GoldenCase[] = JSON.parse(text);
 
 const entries = loadKb(join(import.meta.dirname, '..', 'kb'));
-const systemPrompt = readFileSync(join(import.meta.dirname, '..', 'agent', 'prompts', 'answer.md'), 'utf8');
+const systemPrompt = answerPrompt;
 const client = new Anthropic();
 
 const rows: Row[] = [];

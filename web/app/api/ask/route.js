@@ -2,9 +2,7 @@
 // POST { messages: [{role, content}] } -> { answer }
 import Anthropic from '@anthropic-ai/sdk';
 import { loadKb } from '@/lib/kb';
-import { runAgent } from '@motorpool/core';
-import { readFileSync } from 'node:fs';
-import { resolve } from 'node:path';
+import { runAgent, answerPrompt } from '@motorpool/core';
 
 export async function POST(request) {
   if (!process.env.ANTHROPIC_API_KEY) {
@@ -17,8 +15,7 @@ export async function POST(request) {
   }
 
   const entries = loadKb();
-  // The system prompt is shared with the CLI agent — one source of truth
-  const systemPrompt = readFileSync(resolve(process.cwd(), '..', 'agent', 'prompts', 'answer.md'), 'utf8');
+  const systemPrompt = answerPrompt; // shared with CLI + evals via core
   const client = new Anthropic();
 
   const messages = userMessages.map((m) => ({ role: m.role, content: m.content }));
