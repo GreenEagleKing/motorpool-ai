@@ -15,6 +15,9 @@ export default function RootLayout({ children }) {
         <link href="https://fonts.googleapis.com/css2?family=Yellowtail&display=swap" rel="stylesheet" />
       </head>
       <body className="min-h-screen flex flex-col">
+        <div className="bg-(--color-brass) text-(--color-olive-deep) text-xs font-bold text-center px-6 py-2">
+          Work in progress: covers the Willys MB cooling, engine and fuel systems only (TM 9-803).
+        </div>
         <header>
           <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
             <Link href="/" className="font-bold text-lg tracking-tight">

@@ -2,6 +2,14 @@
 
 import { useState, useRef, useEffect } from 'react';
 
+// One per system the KB covers, plus one the KB can't answer (shows the refusal).
+const EXAMPLES = [
+  'Why is my engine running hot?',
+  'What is the cylinder head torque?',
+  'How do I clean the fuel strainer?',
+  'What is the normal oil pressure?',
+];
+
 export default function AskPage() {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
@@ -12,9 +20,13 @@ export default function AskPage() {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages, busy]);
 
-  async function send(e) {
+  function send(e) {
     e.preventDefault();
-    const question = input.trim();
+    ask(input.trim());
+  }
+
+  // Shared by the form and the example buttons.
+  async function ask(question) {
     if (!question || busy) return;
 
     const next = [...messages, { role: 'user', content: question }];
@@ -59,6 +71,25 @@ export default function AskPage() {
           says so — he doesn&apos;t guess at specs.
         </p>
       </div>
+
+      {messages.length === 0 && (
+        <div>
+          <p className="kicker mb-3">Try one</p>
+          <div className="flex flex-wrap gap-2">
+            {EXAMPLES.map((q) => (
+              <button
+                key={q}
+                type="button"
+                onClick={() => ask(q)}
+                disabled={busy}
+                className="pill bg-(--color-paper-dim) text-(--color-ink-soft) text-sm px-4 py-2 hover:bg-(--color-olive-tint) hover:text-(--color-olive-deep) disabled:opacity-50"
+              >
+                {q}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
 
       <div className="space-y-4">
         {messages.map((m, i) => (
