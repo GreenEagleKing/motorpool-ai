@@ -91,6 +91,7 @@ export default function AskPage() {
         <input
           value={input}
           onChange={(e) => setInput(e.target.value)}
+          maxLength={1000}
           placeholder='e.g. "how do I clean the fuel strainer?"'
           className="flex-1 text-sm focus:outline-none bg-transparent"
         />
