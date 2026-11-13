@@ -33,9 +33,34 @@ function validateMessages(messages) {
   return null;
 }
 
+const RATE_LIMIT = 10; // questions per window, per IP
+const WINDOW_MS = 10 * 60_000; // 10 minutes
+const hits = new Map(); // ip -> { start, count }. In-memory: best-effort on serverless (see notes)
+
+// Returns true if this request should be refused with 429.
+function isRateLimited(ip) {
+  const now = Date.now();
+  const record = hits.get(ip);
+
+  // Rule 1: no record, OR window expired -> set a fresh record, allow
+  if (!record || now - record.start >= WINDOW_MS) {
+    hits.set(ip, { start: now, count: 1 });
+    return false;
+  }
+
+  // Rule 2: otherwise count it, refuse if over the limit
+  record.count++;
+  return record.count > RATE_LIMIT;
+}
+
 export async function POST(request) {
   if (!process.env.ANTHROPIC_API_KEY) {
     return Response.json({ error: 'ANTHROPIC_API_KEY is not set on the server' }, { status: 500 });
+  }
+
+  const ip = request.headers.get('x-nf-client-connection-ip') ?? 'unknown';
+  if (isRateLimited(ip)) {
+    return Response.json({ error: 'Too many requests - server overloaded. Please try again later' }, { status: 429 });
   }
 
   // request.json() throws on a body that isn't valid JSON.
