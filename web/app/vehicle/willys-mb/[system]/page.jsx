@@ -28,7 +28,7 @@ export default async function SystemPage({ params }) {
   if (!entries.length) notFound();
 
   return (
-    <div className="space-y-10">
+    <div className="max-w-5xl mx-auto px-6 py-8 w-full space-y-10">
       <div>
         <p className="kicker mb-3">Willys MB · section file</p>
         <h1 className="text-4xl font-bold tracking-tighter capitalize">{system} system</h1>

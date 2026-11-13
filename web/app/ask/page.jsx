@@ -16,7 +16,9 @@ export default function AskPage() {
   const [busy, setBusy] = useState(false);
   const bottomRef = useRef(null);
 
+  // Follow the conversation, but don't jump past the hero on first load.
   useEffect(() => {
+    if (messages.length === 0) return;
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages, busy]);
 
@@ -60,80 +62,105 @@ export default function AskPage() {
   }
 
   return (
-    <div className="max-w-3xl mx-auto space-y-6">
-      <div>
-        <p className="kicker mb-3">Service desk</p>
-        <h1 className="text-4xl font-bold tracking-tighter">
-          ask the <span className="script text-[1.1em] text-(--color-olive)">foreman</span>
-        </h1>
-        <p className="text-(--color-ink-soft) mt-2 text-sm leading-relaxed">
-          Answers come from the manuals, with citations. If it&apos;s not in the books, the Foreman
-          says so — he doesn&apos;t guess at specs.
-        </p>
-      </div>
-
-      {messages.length === 0 && (
-        <div>
-          <p className="kicker mb-3">Try one</p>
-          <div className="flex flex-wrap gap-2">
-            {EXAMPLES.map((q) => (
-              <button
-                key={q}
-                type="button"
-                onClick={() => ask(q)}
-                disabled={busy}
-                className="pill bg-(--color-paper-dim) text-(--color-ink-soft) text-sm px-4 py-2 hover:bg-(--color-olive-tint) hover:text-(--color-olive-deep) disabled:opacity-50"
-              >
-                {q}
-              </button>
-            ))}
-          </div>
+    <>
+      {/* ── Poster hero (short) ── */}
+      <section className="halftone border-b-2 border-(--color-ink)">
+        <div className="max-w-[1160px] mx-auto px-6 pt-11 pb-10 flex flex-col items-center text-center">
+          <p className="display font-medium text-sm md:text-[17px] tracking-[3px] md:tracking-[6px] text-(--color-brass-deep) mb-3">
+            ★ ★ ★ Service desk ★ ★ ★
+          </p>
+          <h1 className="display font-bold leading-[0.9] tracking-[-1px] text-(--color-olive-deep)">
+            <span className="text-[48px] md:text-[76px]">Ask the </span>
+            <span className="text-[64px] md:text-[104px] text-(--color-olive)">Foreman</span>
+          </h1>
+          <p className="script text-3xl md:text-[44px] leading-[1.1] text-(--color-brass-deep) -rotate-3 -mt-1.5">
+            straight from the books!
+          </p>
+          <p className="mt-3.5 max-w-[560px] text-[17px] text-(--color-ink-soft)">
+            Answers come from the manuals, with citations. If it&apos;s not in the books, the Foreman
+            says so — he doesn&apos;t guess at specs.
+          </p>
         </div>
-      )}
+      </section>
+      <div aria-hidden="true" className="stripes h-5" />
 
-      <div className="space-y-4">
-        {messages.map((m, i) => (
-          <div key={i} className={m.role === 'user' ? 'text-right' : ''}>
-            <div
-              className={
-                m.role === 'user'
-                  ? 'inline-block bg-(--color-olive) text-(--color-paper) px-5 py-2.5 rounded-[18px] rounded-br-md max-w-[85%] text-left text-sm'
-                  : 'card p-5 whitespace-pre-line leading-relaxed text-sm'
-              }
-            >
-              {m.role === 'assistant' && (
-                <p className="text-[10px] font-bold tracking-[1.5px] text-(--color-brass-soft) mb-2">
-                  FOREMAN
-                </p>
-              )}
-              {m.content}
+      <div className="w-full max-w-[860px] mx-auto px-6 pt-10 pb-12 flex flex-col gap-7">
+        {messages.length === 0 && (
+          <div>
+            <h2 className="kicker mb-3.5">★ Try one</h2>
+            <div className="flex flex-wrap gap-2.5">
+              {EXAMPLES.map((q) => (
+                <button
+                  key={q}
+                  type="button"
+                  onClick={() => ask(q)}
+                  disabled={busy}
+                  className="btn-chip min-h-11 px-4 text-sm disabled:opacity-50"
+                >
+                  {q}
+                </button>
+              ))}
             </div>
           </div>
-        ))}
-        {busy && (
-          <p className="text-[10px] font-bold tracking-[1.5px] text-(--color-ink-faint)">
-            CHECKING THE MANUALS…
-          </p>
         )}
-        <div ref={bottomRef} />
-      </div>
 
-      <form onSubmit={send} className="bg-white rounded-full flex items-center p-2 pl-5 sticky bottom-4">
-        <input
-          value={input}
-          onChange={(e) => setInput(e.target.value)}
-          maxLength={1000}
-          placeholder='e.g. "how do I clean the fuel strainer?"'
-          className="flex-1 text-sm focus:outline-none bg-transparent"
-        />
-        <button
-          type="submit"
-          disabled={busy}
-          className="pill bg-(--color-olive) text-(--color-paper) text-sm px-6 py-2.5 disabled:opacity-50"
+        <div className="flex flex-col gap-[22px]">
+          {messages.map((m, i) =>
+            m.role === 'user' ? (
+              <div key={i} className="flex justify-end">
+                <div className="max-w-[80%] flex flex-col items-end gap-1.5">
+                  <span className="display font-medium text-[13px] tracking-[2px] text-(--color-ink-soft)">
+                    You
+                  </span>
+                  <div className="bg-(--color-olive) text-(--color-paper) shadow-[5px_5px_0_var(--color-brass)] px-5 py-3.5">
+                    {m.content}
+                  </div>
+                </div>
+              </div>
+            ) : (
+              <article key={i} className="card hard-shadow">
+                <div className="flex justify-between items-center gap-3 bg-(--color-brass) border-b-2 border-(--color-ink) px-5 py-2">
+                  <span className="display font-bold text-[17px] tracking-[2px]">★ The Foreman</span>
+                  <span className="display font-medium text-[13px] tracking-[2px] text-(--color-olive-deep)">
+                    From the books
+                  </span>
+                </div>
+                <p className="px-6 py-5 whitespace-pre-line leading-relaxed">{m.content}</p>
+              </article>
+            )
+          )}
+          {busy && (
+            <p role="status" className="display font-medium text-[15px] tracking-[3px] text-(--color-ink-soft)">
+              <span className="text-(--color-brass-deep)">★ ★ ★</span> Checking the manuals…
+            </p>
+          )}
+          <div ref={bottomRef} />
+        </div>
+
+        <form
+          onSubmit={send}
+          className="flex border-2 border-(--color-ink) bg-white shadow-[6px_6px_0_var(--color-ink)] sticky bottom-4"
         >
-          ask
-        </button>
-      </form>
-    </div>
+          <label htmlFor="ask-input" className="sr-only">
+            Your question
+          </label>
+          <input
+            id="ask-input"
+            value={input}
+            onChange={(e) => setInput(e.target.value)}
+            maxLength={1000}
+            placeholder='e.g. "how do I clean the fuel strainer?"'
+            className="flex-1 min-w-0 px-[18px] bg-transparent focus:outline-none placeholder:text-[#76705f]"
+          />
+          <button
+            type="submit"
+            disabled={busy}
+            className="display min-h-14 border-l-2 border-(--color-ink) bg-(--color-brass) font-bold text-lg tracking-[1.5px] px-7 disabled:opacity-50"
+          >
+            Ask ★
+          </button>
+        </form>
+      </div>
+    </>
   );
 }

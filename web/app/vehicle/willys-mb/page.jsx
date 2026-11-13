@@ -8,7 +8,7 @@ export default function VehiclePage() {
   const systems = systemsForVehicle(entries, 'willys-mb');
 
   return (
-    <div className="space-y-8">
+    <div className="max-w-5xl mx-auto px-6 py-8 w-full space-y-8">
       <div>
         <p className="kicker mb-3">Vehicle file · TM 9-803</p>
         <h1 className="text-4xl font-bold tracking-tighter">willys mb / ford gpw</h1>
